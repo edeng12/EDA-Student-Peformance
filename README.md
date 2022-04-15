@@ -4,4 +4,6 @@
 
 **Skills:** Python Coding, Data Cleaning, Data Visualization, Data analysis.
 
+**Programming Languages/Tools:** Python, Jupyter Lab, Pandas, VS Code, Seaborn. 
+
 **Result:** Discovering that a parents level of education has some impact, but not a very substantial impact on the student's performance on their exams. Other factors may be explored. 
